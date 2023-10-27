@@ -1,0 +1,84 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #000;
+}
+.cl0 {
+    background-color: #222;
+    width: 100%;
+    padding:30px;
+    background-image: url(img/sky1.jpg);
+    height:200px;
+}
+
+nav {
+    background-image: linear-gradient(90deg, #111, #444, #888, #444, #111);
+    display: inline-block;
+    font-weight: 900;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    height: 70px;
+    padding: 15px;
+    text-align: center;
+}
+
+#nav {
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+}
+a {
+    text-decoration: none;
+    color: #eee;
+    text-shadow: 2px 2px 4px blue;
+    margin: 20px;
+
+}
+
+
+
+
+
+
+.clo1 {
+    display: inline-block;
+    margin:3px;
+}
+
+.cl1 {
+    background-image: linear-gradient(90deg,#6a6e6e,#908c92,#d6dfe2);
+    height: 90px;
+    width: 70%;
+}
+
+.cl2 {
+    background-image: linear-gradient(270deg,#1b2222,#353738,#a2a8aa);
+    height: 70px;
+    width: 20%;
+}
+
+
+.clo2 {
+    display: inline-block;
+}
+
+.cl3 {
+    background-image: linear-gradient(270deg,#272727,#707070,#a0a0a0);
+    height: 70px;
+    width: 65%;
+}
+
+
+.cl4 {
+    background-color: #eee;
+    height: 90px;
+    width: 34%;
+}
+.box{
+    border-radius: 5px;
+    box-shadow: 4px 1px 8px rgb(97, 97, 97);
+}

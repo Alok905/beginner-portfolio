@@ -1,0 +1,22 @@
+img{
+
+    width:20%;
+}
+#img{
+    display: inline-flex;
+    background-color: #504b57;
+    padding:20px;
+    float:left;
+    border:5px solid #eee;
+    margin-right: 10px;
+}
+.out{
+    display: inline-block;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color:#aaa;
+    margin:15px;
+    padding: 15px;
+    font-size: 25px;
+}

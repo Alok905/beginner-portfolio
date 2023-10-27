@@ -1,0 +1,41 @@
+
+#mypic{
+    width: 30%;
+    z-index: 99;
+    margin-right: 20px;
+    float: left;
+    padding:10px;
+    background-color: #707070;
+    border:5px solid #abc;
+}
+
+.cl3 {
+    background-image: linear-gradient(270deg, #272727, #707070, #a0a0a0);
+    height: 70px;
+    width: 45%;
+}
+
+
+.cl4 {
+    background-color: #eee;
+    height: 90px;
+    width: 20%;
+}
+h1 {
+    font-size:90px;
+    font-weight: bolder;
+    font-variant: unset;
+    font-family: serif;
+    color: #fff;
+    text-shadow: 1px 1px 5px #aaa;
+    text-align: center;
+    border-top: 3px solid #707070;
+    border-bottom: 3px solid #707070;
+}
+p{
+    color:#ddd;
+    margin:5px;
+    margin-left: 10px;
+    padding:10px;
+    font-size: 30px;
+}

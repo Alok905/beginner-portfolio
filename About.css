@@ -1,0 +1,14 @@
+p{
+    padding:30px;
+    color:#eee;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contact{
+    width:3%;
+    border:2px solid #bbb;
+    padding:2px;
+    background-color: #a347ee;
+    border-radius: 5px;
+}
+

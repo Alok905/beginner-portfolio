@@ -1,0 +1,46 @@
+.skills{
+    margin:15px;
+}
+.underline{
+    border-bottom: 5px solid #eee;
+    padding:20px;
+}
+.sk{
+    background-color: #384d4d;
+    height:80px;
+    width:100%;
+}
+h1{
+    color:rgb(0, 0, 0);
+    background-color: #6a7ccc;
+    padding:15px;
+    font-size:40px;
+    text-shadow: 3px 3px 5px rgb(130, 255, 113);
+}
+.img1{
+    float: right;
+    margin-right: 15px;
+    border:5px solid #aaa;
+    border-radius: 10px;
+    background-color: #a2f7f7;
+    padding:1em;
+    display: inline-block;
+    margin:15px;
+    width:10%;
+}
+.img2{
+    float: left;
+    margin-right: 15px;
+    border:5px solid #aaa;
+    border-radius: 10px;
+    background-color: #a2f7f7;
+    padding:1em;
+    display: inline-block;
+    margin:15px;
+    width:10%;
+}
+p{
+    margin:10px;
+    color:rgb(193, 255, 250);
+    font-size:20px;
+}
